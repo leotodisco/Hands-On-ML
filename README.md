@@ -16,8 +16,6 @@ La repository è organizzata in base ai capitoli del libro. Ogni cartella contie
 
 ---
 
----
-
 ## ⚠️ Disclaimer
 
 Questo repository contiene codice e materiali basati sul libro **"Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow"** scritto da **Aurélien Géron**. 
